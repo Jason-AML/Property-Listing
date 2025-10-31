@@ -1,6 +1,6 @@
 export const ListCard = ({ data, loading }) => {
   return (
-    <div className=" bg-[#121826] text-white pt-16">
+    <div className=" relative z-10 bg-[#121826] text-white pt-16 min-h-[702px]">
       {!loading ? (
         <>
           <h2 className="text-5xl ">Over {data.length} stays </h2>

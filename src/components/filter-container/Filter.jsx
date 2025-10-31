@@ -1,6 +1,6 @@
 export const Filter = ({ options = [], onChange }) => {
   return (
-    <section className=" bg-gray-800 text-white flex justify-center items-center ">
+    <section className="relative z-10 bg-gray-800 text-white flex justify-center items-center ">
       <div className=" h-[50px] items-center flex-wrap hidden md:flex gap-x-5 ">
         <ul className="flex gap-5 flex-wrap">
           {options.length > 0 ? (
