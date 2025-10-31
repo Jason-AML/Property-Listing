@@ -3,7 +3,7 @@ import imgHero from "../../assets/hero/house_hero.webp";
 export const Hero = () => {
   return (
     <section
-      className="h-screen w-full bg-amber-300 text-black bg-no-repeat bg-center bg-cover relative"
+      className="h-screen w-full bg-amber-300 text-black bg-no-repeat bg-center bg-cover "
       style={{
         backgroundImage: `url(${imgHero})`,
       }}
