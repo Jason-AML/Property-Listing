@@ -49,9 +49,7 @@ export const Hero = () => {
         className="flex relative  xl:justify-center items-center h-screen w-[50%]"
       >
         <div className="flex flex-col gap-5">
-          <h3 className="text-white text-5xl font-bold">
-            PEACE, NATURE, DREAM
-          </h3>
+          <h3 className="text-white text-5xl font-bold">PEACE</h3>
           <p className="text-gray-400 font-bold">
             Find and book a great experience
           </p>
@@ -79,9 +77,7 @@ export const Hero = () => {
         className="flex  xl:justify-center items-center h-screen w-[100%]"
       >
         <div className="flex flex-col gap-5">
-          <h3 className="text-white text-5xl font-bold">
-            PEACE, NATURE, DREAM
-          </h3>
+          <h3 className="text-white text-5xl font-bold">NATURE</h3>
           <p className="text-gray-400 font-bold">
             Find and book a great experience
           </p>
@@ -92,9 +88,7 @@ export const Hero = () => {
         className="flex  xl:justify-center items-center h-screen w-[150%]"
       >
         <div className="flex flex-col gap-5">
-          <h3 className="text-white text-5xl font-bold">
-            PEACE, NATURE, DREAM
-          </h3>
+          <h3 className="text-white text-5xl font-bold">DREAM</h3>
           <p className="text-gray-400 font-bold">
             Find and book a great experience
           </p>
